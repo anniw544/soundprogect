@@ -4928,7 +4928,7 @@ AudioSource:
   Priority: 128
   DopplerLevel: 1
   MinDistance: 1
-  MaxDistance: 500
+  MaxDistance: 50
   Pan2D: 0
   rolloffMode: 0
   BypassEffects: 0
@@ -5430,7 +5430,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   controller: {fileID: 2068389333}
   anim: {fileID: 558468124}
-  RunningSound: {fileID: 0}
+  RunningSound: {fileID: 8300000, guid: d76a55791c08b439a9c2e5e26544c8ad, type: 3}
   speed: 4
   rotSpeed: 600
   rot: 0
